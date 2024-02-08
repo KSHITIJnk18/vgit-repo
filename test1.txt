@@ -1,0 +1,3 @@
+printf("Hello world")
+printf("I AM NEW TO PROGRAMMING")
+printf("I AM NEW TO THIS WORLD")
